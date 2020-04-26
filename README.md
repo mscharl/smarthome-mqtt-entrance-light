@@ -1,0 +1,1 @@
+# smarthome/mqtt-entrance-light
